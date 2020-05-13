@@ -1,7 +1,7 @@
 /**
- * Function to extract ID and Offer Price from API data
- * @param apiData object with returned API data
- * @returns array of objects, each a record populated with relevant data
+ * Function to extract ID and Offer Price from API data.
+ * @param apiData object with returned API data.
+ * @returns array of objects, each a record populated with the properties we are interested in.
  */
 
 function processApiData(apiData) {

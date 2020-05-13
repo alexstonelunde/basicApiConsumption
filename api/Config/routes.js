@@ -1,7 +1,7 @@
 const DataController = require('../Controllers/DataController');
 
 /**
- * Function to set route parameters into our application
+ * Function to set route parameters into our application.
  * @param {*} app Variable containing the express() functionality.
  */
 
